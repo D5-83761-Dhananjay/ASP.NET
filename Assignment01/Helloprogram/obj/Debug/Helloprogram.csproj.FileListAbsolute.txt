@@ -1,0 +1,7 @@
+D:\.NET\Assignment01\Helloprogram\bin\Debug\Helloprogram.exe.config
+D:\.NET\Assignment01\Helloprogram\bin\Debug\Helloprogram.exe
+D:\.NET\Assignment01\Helloprogram\bin\Debug\Helloprogram.pdb
+D:\.NET\Assignment01\Helloprogram\obj\Debug\Helloprogram.csproj.AssemblyReference.cache
+D:\.NET\Assignment01\Helloprogram\obj\Debug\Helloprogram.csproj.CoreCompileInputs.cache
+D:\.NET\Assignment01\Helloprogram\obj\Debug\Helloprogram.exe
+D:\.NET\Assignment01\Helloprogram\obj\Debug\Helloprogram.pdb

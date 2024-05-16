@@ -1,0 +1,7 @@
+D:\.NET\Assignment01\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+D:\.NET\Assignment01\BasicCalculator\bin\Debug\BasicCalculator.exe
+D:\.NET\Assignment01\BasicCalculator\bin\Debug\BasicCalculator.pdb
+D:\.NET\Assignment01\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+D:\.NET\Assignment01\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+D:\.NET\Assignment01\BasicCalculator\obj\Debug\BasicCalculator.exe
+D:\.NET\Assignment01\BasicCalculator\obj\Debug\BasicCalculator.pdb
