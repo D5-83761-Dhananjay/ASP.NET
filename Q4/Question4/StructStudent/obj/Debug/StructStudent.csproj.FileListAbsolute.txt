@@ -1,0 +1,7 @@
+D:\ASP.NET\Q4\Question4\StructStudent\obj\Debug\StructStudent.csproj.AssemblyReference.cache
+D:\ASP.NET\Q4\Question4\StructStudent\obj\Debug\StructStudent.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Q4\Question4\StructStudent\bin\Debug\StructStudent.exe.config
+D:\ASP.NET\Q4\Question4\StructStudent\bin\Debug\StructStudent.exe
+D:\ASP.NET\Q4\Question4\StructStudent\bin\Debug\StructStudent.pdb
+D:\ASP.NET\Q4\Question4\StructStudent\obj\Debug\StructStudent.exe
+D:\ASP.NET\Q4\Question4\StructStudent\obj\Debug\StructStudent.pdb
